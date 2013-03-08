@@ -7,8 +7,7 @@ _“Vær seriøs, men ikkje alvorlig” (Be earnest about this endeavor, but nev
 
 _“Beer must be drunk, talk must be talked, and code must be coded! ~Eivind Jahren_ 
 
-tl;dr? -> Gather as many it-interested as you can, be nerdy, create!
-===
+**tl;dr?** -> Gather as many it-interested as you can, be nerdy, create!
 
 Visionary goals
 ===
