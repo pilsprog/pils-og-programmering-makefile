@@ -1,5 +1,7 @@
-pils-og-programmering-makefile
+pils-og-programmering-	makefile
 ==============================
+
+Recently we've happily noticed that other Pils & Programmering events are cropping up around the world. We therefore built this makefile in order to give some guidance as to how one would be a able to run a successful Pils and Programmering.
 
 **1. We must help people become creators.** Too many students drift through their studies not realizing that they can create things. This goes for non-students as well. Knowledge is essential in creating but it is also necessary to have experience in being creative. We want to create an arena for creating, (for greater good) hacking, making new things because we can. Let's just create stuff. Bring on the DIY revolution. 
 
@@ -13,6 +15,6 @@ _“Vær seriøs, men ikkje alvorlig” (Be earnest about this endeavor, but nev
 
 _“Beer must be drunk, talk must be talked, and code must be coded! ~Eivind Jahren_ 
 
-Questions, comments, concerns? 
+This document is not set in stone. Questions, comments, concerns? 
 
 (Like us on Facebook)[https://www.facebook.com/pilsprog]
