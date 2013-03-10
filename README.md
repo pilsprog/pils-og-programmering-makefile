@@ -5,7 +5,7 @@ Recently we've happily noticed that other Pils & Programmering events are poppin
 
 _“Vær seriøs, men ikkje alvorlig” (Be earnest about this endeavor, but never stop being playful about it either.) ~Nils._
 
-_“Beer must be drunk, talk must be talked, and code must be coded! ~Eivind Jahren_ 
+_“Beer must be drunk, talk must be talked, and code must be coded!" ~Eivind Jahren_ 
 
 **tl;dr?** -> Gather as many it-interested people as you can, be nerdy, be social, create! :)
 
