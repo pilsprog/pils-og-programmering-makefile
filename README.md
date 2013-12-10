@@ -3,7 +3,7 @@ pils-og-programmering-	makefile
 
 Recently we've happily noticed that other Pils & Programmering events are popping up around the world. We therefore built this makefile to give some guidance on how to run a successful Pils and Programmering.
 
-_“Vær seriøs, men ikkje alvorlig” (Be earnest about this endeavor, but never stop being playful about it either.) ~Nils._
+_“Vær seriøs, men ikkje alvorlig” (Be earnest about this endeavor, but never stop being playful about it either.)._
 
 **tl;dr?** -> Gather as many it-interested people as you can, be nerdy, be social, create! :)
 
